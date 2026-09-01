@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "ENHANCEMENT THREE - DATABASES"
 permalink: /Enhancement3/
 ---
