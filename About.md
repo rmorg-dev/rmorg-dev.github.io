@@ -1,5 +1,6 @@
 layout: page
-title: "ABOUT ME"
-permalink: /about
+title: "SELF-ASSESSMENT"
+permalink: /about/
 
-# ABOUT ME
+# INTRODUCTION
+Text here.
