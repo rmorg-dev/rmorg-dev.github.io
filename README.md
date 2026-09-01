@@ -1,5 +1,5 @@
 ### Links
-+ [Self-Assessment](https://rmorg-dev.github.io/about)
++ [Self-Assessment](About.md)
 + [Code Review](CodeReview.md)
 + [Enhancement 1: Software Design and Engineering](Enhancement1.md)
 + [Enhancement 2: Algorithms and Data Structure](Enhancement2.md)
