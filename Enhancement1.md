@@ -9,3 +9,10 @@ permalink: /Enhancement1/
 
 + [link to original artifact](https://github.com/rmorg-dev/CS300)
 + [link to enhanced artifact]()
+
+---
+
++ [Self-Assessment](index.md)
++ [Code Review](CodeReview.md)
++ [Enhancement Two: Algorithms and Data Structures](Enhancement2.md)
++ [Enhancement Three: Databases](Enhancement3.md)
