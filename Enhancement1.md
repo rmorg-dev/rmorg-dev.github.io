@@ -5,4 +5,7 @@ permalink: /Enhancement1/
 ---
 
 # ENHANCEMENT ONE
-This is where the narrative for my software engineering and design edits, original, and enhanced code will live.
+[place holder]
+
+- [link to original artifact](https://github.com/rmorg-dev/CS300)
+- [link to enhanced artifact]()
