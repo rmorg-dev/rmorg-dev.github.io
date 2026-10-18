@@ -5,4 +5,8 @@ permalink: /Enhancement3/
 ---
 
 # ENHANCEMENT THREE
-This is where the narrative surrounding my database edits will live, including the original and enhanced code. 
+[place holder]
+
++ [link to original artifact](https://github.com/rmorg-dev/CS300)
++ [link to enhanced artifact]()
+
