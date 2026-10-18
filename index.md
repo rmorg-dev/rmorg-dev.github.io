@@ -10,6 +10,8 @@ title: "SELF-ASSESSMENT"
 ## How the artifacts tie together
 [place holder]
 
+---
+
 + [Code Review](CodeReview.md)
 + [Enhancement One: Software Design and Engineering](Enhancement1.md)
 + [Enhancement Two: Algorithms and Data Structures](Enhancement2.md)
