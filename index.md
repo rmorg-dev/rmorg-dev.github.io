@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "SELF-ASSESSMENT"
-permalink: /about/
 ---
 # Professional Self-Assessment
 ## Introduction
