@@ -8,7 +8,7 @@ permalink: /Enhancement1/
 [place holder]
 
 + [link to original artifact](https://github.com/rmorg-dev/CS300)
-+ [link to enhanced artifact]()
++ [link to enhanced artifact](https://github.com/rmorg-dev/CourseScheduler)
 
 ---
 
